@@ -1,3 +1,11 @@
+
+<a name="unreleased"></a>
+## <small>Unreleased</small>
+
+* Prettified schema.json on stencil bundle and expanded error details on theme variation
+
+
+
 <a name="1.21.4"></a>
 ## <small>1.21.4 (2019-12-20)</small>
 
